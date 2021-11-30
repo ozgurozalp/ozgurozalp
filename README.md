@@ -4,9 +4,7 @@
 - 💬  Ask me about FrontEnd or Backend
 - 🤙  How to reach me: [mail@ozgurozalp.com](mailto:mail@ozgurozalp.com?subject=GitHub)
 
-<div style="display:flex;">
 
 ![github-stats](https://github-readme-stats.vercel.app/api?username=ozgurozalp&count_private=true&show_icons=true&theme=algolia)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurozalp&theme=algolia&layout=compact)
 
-</div>
