@@ -1,5 +1,5 @@
 ![github-stats](https://github-readme-stats.vercel.app/api?username=ozgurozalp&count_private=true&show_icons=true&theme=algolia)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurozalp)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ozgurozalp&theme=algolia&layout=compact)
 
 
 - 👋  Hi, I’m Özgür ÖZALP
