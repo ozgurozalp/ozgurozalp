@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Özgür ÖZALP
-- 🔭  I’m currently working on Hype
+- 🔭  I’m currently working at Hype
 - 🌱  I’m currently learning GO Lang
 - 💬  Ask me about anything
 - 🤙  How to reach me: [mail@ozgurozalp.com](mailto:mail@ozgurozalp.com?subject=GitHub)
