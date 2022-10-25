@@ -1,5 +1,5 @@
 - 👋  Hi, I’m Özgür ÖZALP
-- 🔭  I’m currently working at Hype
+- 🔭  I’m currently working at Altogic
 - 💬  Ask me about anything
 - 🤙  How to reach me: [mail@ozgurozalp.com](mailto:mail@ozgurozalp.com?subject=From%20GitHub)
 
