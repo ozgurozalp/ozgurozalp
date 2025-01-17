@@ -19,7 +19,99 @@
 
  **<h3 align="left">Skills</h3>**
 
-<p align="left"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 4px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 4px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker" style="margin-right: 4px"> <img src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white" height="32" alt="OpenAI" style="margin-right: 4px"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white" height="32" alt="MongoDB" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white" height="32" alt="Laravel" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D" height="32" alt="Vue" style="margin-right: 4px"> <img src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white" height="32" alt="Framer Motion" style="margin-right: 4px"></p>
+<p align="left">
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white"
+    height="32"
+    alt="JavaScript"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB"
+    height="32"
+    alt="React"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/Next.js-F7DF1C?logo=next.js&logoColor=black"
+    height="32"
+    alt="Next.js"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white"
+    height="32"
+    alt="TypeScript"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white"
+    height="32"
+    alt="Node.js"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white"
+    height="32"
+    alt="Tailwind CSS"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white"
+    height="32"
+    alt="Prisma"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white"
+    height="32"
+    alt="PostgreSQL"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"
+    height="32"
+    alt="MySQL"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"
+    height="32"
+    alt="Docker"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white"
+    height="32"
+    alt="OpenAI"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb&logoColor=white"
+    height="32"
+    alt="MongoDB"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/Laravel-F05032?logo=laravel&logoColor=white"
+    height="32"
+    alt="Laravel"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/Vue.js-35495E?logo=vue.js&logoColor=4FC08D"
+    height="32"
+    alt="Vue"
+    style="margin-right: 4px"
+  />
+  <img
+    src="https://img.shields.io/badge/Framer_Motion-0085FF?logo=framer&logoColor=white"
+    height="32"
+    alt="Framer Motion"
+    style="margin-right: 4px"
+  />
+</p>
+
 
  **<h3 align="left">GitHub Stats</h3>**
 
